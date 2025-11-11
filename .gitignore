@@ -1,3 +1,5 @@
 node_modules
 .env
 websocket.js
+index.js.txt
+tokens.txt
